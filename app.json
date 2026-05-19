@@ -1,9 +1,9 @@
 {
-  "name": "𝘿𝙈𝙇-𝙈𝘿",
+  "name": "KOREXIA-MD",
   "description": "⚡ A lightning-fast WhatsApp bot with multi-device support, built on Node.js & Baileys.",
   "website": "https://github.com/MLILA17/DML-MD#readme",
-  "repository": "https://github.com/MLILA17/DML-MD.git",
-  "logo": "https://files.catbox.moe/juhq1l.jpg",
+  "repository": "https://github.com/cabrin21/Korexia-xmd.git",
+  "logo": "https://n.uguu.se/eNkwYCbk.jpg",
   "success_url": "/",
   "keywords": ["whatsapp-bot", "baileys", "nodejs", "heroku", "dml-md"],
   "scripts": {
